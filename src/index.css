@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
+
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+
+body {
+    background: rgb(43, 46, 68);
+    color: whitesmoke;
+}
