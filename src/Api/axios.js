@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-    baseURL: 'servitech-azure.vercel.app',
+    baseURL: 'servitech-yoyisnts-projects.vercel.app/api',
     withCredentials: true,
 });
 
